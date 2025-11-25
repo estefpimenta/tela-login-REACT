@@ -1,5 +1,6 @@
 
 import './App.css'
+import Login from './Components/Login/Login'
 
 function App() {
   
@@ -8,7 +9,7 @@ function App() {
 
     <div className="App">
 
-        <p>Página de login</p>
+        <Login />
 
     </div>
 
