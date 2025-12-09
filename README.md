@@ -1,17 +1,47 @@
-# React + Vite
+# 🔐 Tela de Login — Projeto em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma interface de **Tela de Login** desenvolvida com **React** como parte do meu aprendizado em React.js.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview  
+<img src="./src/assets/preview.JPG" width="400" alt="Preview do projeto">
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Objetivo do Projeto
 
-## Expanding the ESLint configuration
+Criar uma tela de autenticação funcional e bem estruturada utilizando **React**, explorando:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# tela-login-REACT
+- Manipulação de formulário  
+- Componentização    
+- Organização de arquivos  
+- Estilização em CSS  
+
+O objetivo principal foi praticar a construção de interfaces modernas e responsivas usando boas práticas do ecossistema React.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React + Vite**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **Hooks do React (useState)**
+- **Metodologia BEM** para organização de classes
+
+---
+
+## 🧠 O que eu aprendi
+
+### ✔️ Fundamentos do React
+- Implementação de componentes funcionais.
+- Controle de estados com `useState`.
+- Manipulação de inputs e eventos.
+
+### ✔️ Estrutura da Interface
+- Organização com padrões **BEM**, garantindo clareza e escalabilidade.
+- Separação entre responsabilidades visuais e lógicas.
+- Estruturação em componentes reutilizáveis.
+
+---
